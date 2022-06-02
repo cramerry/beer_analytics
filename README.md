@@ -1,4 +1,4 @@
 # beer_analytics
-Introduction
-Installation
-Acknowledgments
+#Introduction
+#Installation
+#Acknowledgments
