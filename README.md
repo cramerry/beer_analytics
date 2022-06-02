@@ -1,4 +1,4 @@
-# beer_analytics
+# Beer Analytics
 
 ### Introduction
 
