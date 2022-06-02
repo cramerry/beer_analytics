@@ -4,5 +4,5 @@
 <p></p>
 ## Installation
 <p></p>
-## Acknowledgments
+## Acknowledgments <p></p>
   * [yolov4-deepsort](https://github.com/theAIGuysCode/yolov4-deepsort)
