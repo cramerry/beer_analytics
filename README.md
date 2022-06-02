@@ -1,8 +1,8 @@
 # beer_analytics
 <p></p>
-## Introduction
+### Introduction
 <p></p>
-## Installation
+### Installation
 <p></p>
-## Acknowledgments <p></p>
+### Acknowledgments
   * [yolov4-deepsort](https://github.com/theAIGuysCode/yolov4-deepsort)
