@@ -1,7 +1,7 @@
 # Kegerator Analytics
 
 ### Introduction
-
+![alt text](https://github.com/cramerry/beer_analytics/blob/main/Screen%20Shot%202022-06-10%20at%2011.41.33%20AM.png)
 
 ### Installation
   * Keg Management and pour tracking is is handled by [Kegbot Server](https://kegbot.org).  This data can be accessed by 
